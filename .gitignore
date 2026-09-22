@@ -1,0 +1,33 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite databases and SQLite sidecar files
+*.sqlite
+*.sqlite3
+*.db
+*-journal
+*-shm
+*-wal
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Editor / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local test output
+coverage/
+htmlcov/
+.pytest_cache/
