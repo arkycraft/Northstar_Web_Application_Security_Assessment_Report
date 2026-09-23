@@ -5,5 +5,4 @@
 **Purpose:** Shows the Burp Repeater view confirming IDOR with the rendered response for another user's ticket.
 
 **Context in report:**  
-Supports F-01 (IDOR in Ticket Detail Endpoint) and Appendix A.4 (horizontal privilege escalation testing).  
-*(Use this file as Figure 13 if your final report uses the Repeater screenshot as the primary IDOR confirmation.)*
+Supports F-01 (IDOR in Ticket Detail Endpoint) and Appendix A.4 (horizontal privilege escalation testing).
